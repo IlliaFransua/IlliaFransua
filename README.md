@@ -1,3 +1,5 @@
+<img width="360" src=".github/assets/Garfield.gif" alt="" />
+
 ## Hi there 👋
 
 <picture>
@@ -17,5 +19,3 @@
 | [web-quiz-engine](https://github.com/IlliaFransua/web-quiz-engine) | Quiz API with HTTP Basic auth, persisted completion history and paginated queries | Spring (Boot, Security, Web, JPA, Validation), Hibernate, Gradle |
 | [SpamGuardBot](https://github.com/IlliaFransua/SpamGuardBot) | Telegram bot that detects and removes spam in group chats | Java, Maven, Gson, Telegram Bot API, Python, ML |
 | [CDragon](https://github.com/IlliaFransua/CDragon) | Lightweight HTTP server written from scratch | C, C++, MySQL, CMake |
-
-<img src=".github/assets/footer.gif" alt="" width="360" />
