@@ -1,11 +1,17 @@
-<img width="360" src=".github/assets/Garfield.gif" alt="" />
-
 ## Hi there 👋
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven,postgres,mysql,redis,rabbitmq,docker,ts,react,neovim,linux,apple&theme=dark" />
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven,postgres,mysql,redis,rabbitmq,docker,ts,react,neovim,linux,apple&theme=light" alt="Java, Spring, Hibernate, Gradle, Maven, PostgreSQL, MySQL, Redis, RabbitMQ, Docker, TypeScript, React, Neovim, Linux, macOS" height="48" />
 </picture>
+
+&NewLine;
+
+<details>
+  <summary>Garfield 🐈</summary>
+  <br />
+  <img width="360" src=".github/assets/Garfield.gif" alt="" />
+</details>
 
 &NewLine;
  
