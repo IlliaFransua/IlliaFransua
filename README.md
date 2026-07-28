@@ -2,11 +2,6 @@
 
 [![Skills](https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven,postgres,mysql,redis,rabbitmq,docker,ts,react,neovim,linux,apple&theme=light)](https://skillicons.dev)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven,postgres,mysql,redis,rabbitmq,docker,ts,react,neovim,linux,apple&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven,postgres,mysql,redis,rabbitmq,docker,ts,react,neovim,linux,apple&theme=light" alt="Java, Spring, Hibernate, Gradle, Maven, PostgreSQL, MySQL, Redis, RabbitMQ, Docker, TypeScript, React, Neovim, Linux, macOS" height="48" />
-</picture>
-
 &NewLine;
 
 <details>
