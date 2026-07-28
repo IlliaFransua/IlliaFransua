@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven,postgres,mysql,redis,rabbitmq,docker,ts,react,neovim,linux,apple)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven,postgres,mysql,redis,rabbitmq,docker,ts,react,neovim,linux,apple&theme=light)](https://skillicons.dev)
 
 &NewLine;
 
