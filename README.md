@@ -20,5 +20,4 @@
 | [anti-fraud-system](https://github.com/IlliaFransua/anti-fraud-system) | Fraud detection API with role-based access and layered transaction checks | Spring (Boot, Security, Web, JPA, Validation), Hibernate, Gradle, MapStruct, Lombok |
 | [fitness-tracker-api](https://github.com/IlliaFransua/fitness-tracker-api) | Fitness data API with API-key authentication and token-bucket rate limiting | Spring (Boot, Security, Web, JPA, Validation), Hibernate, Gradle, MapStruct, Lombok |
 | [web-quiz-engine](https://github.com/IlliaFransua/web-quiz-engine) | Quiz API with HTTP Basic auth, persisted completion history and paginated queries | Spring (Boot, Security, Web, JPA, Validation), Hibernate, Gradle |
-| [SpamGuardBot](https://github.com/IlliaFransua/SpamGuardBot) | Telegram bot that detects and removes spam in group chats | Java, Maven, Gson, Telegram Bot API, Python, ML |
 | [CDragon](https://github.com/IlliaFransua/CDragon) | Lightweight HTTP server written from scratch | C, C++, MySQL, CMake |
